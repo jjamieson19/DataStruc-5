@@ -1,0 +1,16 @@
+﻿  Banking_Application.cpp
+c:\users\prayi\desktop\pr5_banking\pr4_banking\savings.h(20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\checking.h(19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\adult.h(7): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\adult.h(8): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\senior.h(7): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\senior.h(8): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\student.h(7): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\student.h(8): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\prayi\desktop\pr5_banking\pr4_banking\bank.h(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\prayi\desktop\pr5_banking\pr4_banking\bank.h(54): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Customer.cpp
+  PR4_Banking.vcxproj -> C:\Users\prayi\Desktop\PR5_Banking\Debug\PR4_Banking.exe
+  PR4_Banking.vcxproj -> C:\Users\prayi\Desktop\PR5_Banking\Debug\PR4_Banking.pdb (Full PDB)
